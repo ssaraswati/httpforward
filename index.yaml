@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  httpforward:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2018-09-11T23:42:28.326596278+10:00
+    description: A Helm chart for Kubernetes
+    digest: b4ca47c45470068d59612616f7079925931ce6e905fd5b1e93a37821f49efec7
+    name: httpforward
+    urls:
+    - https://ssaraswati.github.io/httpforward/httpforward-0.1.0.tgz
+    version: 0.1.0
+generated: 2018-09-11T23:42:28.324108638+10:00
