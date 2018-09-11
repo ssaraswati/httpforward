@@ -40,6 +40,7 @@ The command removes all the Kubernetes components associated with the chart and 
 
 The following table lists the configurable parameters of the Twitsss chart and their default values.
 (Only core listed see values.yaml for the rest and make a PR if you want to help)
+
 Parameter | Description | Default
 --- | --- | ---
 `target` | forwarding target | `https://news.ycombinator.com/`
