@@ -43,5 +43,5 @@ The following table lists the configurable parameters of the Twitsss chart and t
 Parameter | Description | Default
 --- | --- | ---
 `target` | forwarding target | `https://news.ycombinator.com/`
-`target` | ingress | `true`
-`target` | ingress hostname | `hackernews.localtest.me`
+`ingress.enabled` | ingress | `true`
+`ingress.hosts` | ingress hostname | `hackernews.localtest.me`
